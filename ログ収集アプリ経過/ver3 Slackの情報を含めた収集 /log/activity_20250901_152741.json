@@ -1,0 +1,11 @@
+[
+{"start":"2025-09-01T15:27:44+09:00","end":"2025-09-01T15:27:52+09:00","app":"Electron","title":"main.go — activitylog","activity":"プログラムの制作","durationSec":8},
+{"start":"2025-09-01T15:27:52+09:00","end":"2025-09-01T15:27:55+09:00","app":"Safari","title":"スタートページ","activity":"Webブラウジング","durationSec":3},
+{"start":"2025-09-01T15:27:55+09:00","end":"2025-09-01T15:28:01+09:00","app":"Slack","title":"all-ハッカソン開発チーム（チャンネル） - ハッカソン開発チーム - Slack","activity":"コミュニケーション","durationSec":6},
+{"start":"2025-09-01T15:28:01+09:00","end":"2025-09-01T15:28:03+09:00","app":"Discord","title":"#t_回路班 | ロボメカ工房NHKロボコン部隊 - Discord","activity":"コミュニケーション","durationSec":2},
+{"start":"2025-09-01T15:28:03+09:00","end":"2025-09-01T15:28:04+09:00","app":"Finder","title":"activitylog","activity":"ファイル操作","durationSec":1},
+{"start":"2025-09-01T15:28:04+09:00","end":"2025-09-01T15:28:06+09:00","app":"Finder","title":"Message","activity":"ファイル操作","durationSec":1},
+{"start":"2025-09-01T15:28:06+09:00","end":"2025-09-01T15:28:07+09:00","app":"Finder","title":"","activity":"ファイル操作","durationSec":2},
+{"start":"2025-09-01T15:28:07+09:00","end":"2025-09-01T15:28:09+09:00","app":"Discord","title":"#t_回路班 | ロボメカ工房NHKロボコン部隊 - Discord","activity":"コミュニケーション","durationSec":1},
+{"start":"2025-09-01T15:28:09+09:00","end":"2025-09-01T15:28:11+09:00","app":"Electron","title":"main.go — activitylog","activity":"プログラムの制作","durationSec":2}
+]

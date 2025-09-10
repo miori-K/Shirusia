@@ -1,0 +1,16 @@
+[
+{"start":"2025-08-31T19:16:27+09:00","end":"2025-08-31T19:16:32+09:00","app":"Electron","title":"","activity":"その他","durationSec":4},
+{"start":"2025-08-31T19:16:32+09:00","end":"2025-08-31T19:16:33+09:00","app":"Finder","title":"Message","activity":"ファイル操作","durationSec":2},
+{"start":"2025-08-31T19:16:33+09:00","end":"2025-08-31T19:16:36+09:00","app":"Discord","title":"#ハッカソン | メモ用サーバー - Discord","activity":"コミュニケーション","durationSec":3},
+{"start":"2025-08-31T19:16:36+09:00","end":"2025-08-31T19:16:38+09:00","app":"Slack","title":"","activity":"コミュニケーション","durationSec":1},
+{"start":"2025-08-31T19:16:38+09:00","end":"2025-08-31T19:16:42+09:00","app":"Slack","title":"新しいチャンネル（チャンネル） - ハッカソン開発チーム - Slack","activity":"コミュニケーション","durationSec":4},
+{"start":"2025-08-31T19:16:42+09:00","end":"2025-08-31T19:16:45+09:00","app":"Slack","title":"all-ハッカソン開発チーム（チャンネル） - ハッカソン開発チーム - Slack","activity":"コミュニケーション","durationSec":3},
+{"start":"2025-08-31T19:16:45+09:00","end":"2025-08-31T19:16:47+09:00","app":"Slack","title":"","activity":"コミュニケーション","durationSec":2},
+{"start":"2025-08-31T19:16:47+09:00","end":"2025-08-31T19:16:50+09:00","app":"Slack","title":"all-ハッカソン開発チーム（チャンネル） - ハッカソン開発チーム - Slack","activity":"コミュニケーション","durationSec":3},
+{"start":"2025-08-31T19:16:50+09:00","end":"2025-08-31T19:16:54+09:00","app":"Discord","title":"#ハッカソン | メモ用サーバー - Discord","activity":"コミュニケーション","durationSec":4},
+{"start":"2025-08-31T19:16:54+09:00","end":"2025-08-31T19:16:56+09:00","app":"Finder","title":"activitylog","activity":"ファイル操作","durationSec":2},
+{"start":"2025-08-31T19:16:56+09:00","end":"2025-08-31T19:16:57+09:00","app":"Finder","title":"Message","activity":"ファイル操作","durationSec":1},
+{"start":"2025-08-31T19:16:57+09:00","end":"2025-08-31T19:17:02+09:00","app":"Finder","title":"activitylog","activity":"ファイル操作","durationSec":5},
+{"start":"2025-08-31T19:17:02+09:00","end":"2025-08-31T19:17:03+09:00","app":"Finder","title":"log","activity":"ファイル操作","durationSec":1},
+{"start":"2025-08-31T19:17:03+09:00","end":"2025-08-31T19:17:04+09:00","app":"Electron","title":"","activity":"その他","durationSec":0}
+]

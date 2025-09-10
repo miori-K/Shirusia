@@ -1,0 +1,11 @@
+timestamp,event,app,bundle_id,title,url,category
+2025-08-24T21:38:47+09:00,start,Microsoft PowerPoint,com.microsoft.Powerpoint,,,その他
+2025-08-24T21:39:05+09:00,end,Microsoft PowerPoint,com.microsoft.Powerpoint,,,その他
+2025-08-24T21:39:05+09:00,start,Safari,com.apple.Safari,出席済み出席者 - Zoom,https://us02web.zoom.us/postattendee?mn=27Yf0eGTRWfhaA0Vl-lCJn9IGWT_L87fex4H.Tn-C91_F9vls1dCQ,ブラウジング
+2025-08-24T21:39:20+09:00,end,Safari,com.apple.Safari,出席済み出席者 - Zoom,https://us02web.zoom.us/postattendee?mn=27Yf0eGTRWfhaA0Vl-lCJn9IGWT_L87fex4H.Tn-C91_F9vls1dCQ,ブラウジング
+2025-08-24T21:39:20+09:00,start,Microsoft PowerPoint,com.microsoft.Powerpoint,,,その他
+2025-08-24T21:39:25+09:00,end,Microsoft PowerPoint,com.microsoft.Powerpoint,,,その他
+2025-08-24T21:39:25+09:00,start,zoom.us,us.zoom.xos,,,その他
+2025-08-24T21:39:30+09:00,end,zoom.us,us.zoom.xos,,,その他
+2025-08-24T21:39:30+09:00,start,Electron,,,,その他
+2025-08-24T21:39:30+09:00,end,Electron,,,,その他

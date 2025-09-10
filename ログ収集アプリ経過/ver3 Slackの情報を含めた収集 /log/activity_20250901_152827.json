@@ -1,0 +1,19 @@
+[
+{"start":"2025-09-01T15:28:29+09:00","end":"2025-09-01T15:28:35+09:00","app":"Electron","title":"","activity":"その他","durationSec":6},
+{"start":"2025-09-01T15:28:35+09:00","end":"2025-09-01T15:28:39+09:00","app":"Discord","title":"#t_回路班 | ロボメカ工房NHKロボコン部隊 - Discord","activity":"コミュニケーション","durationSec":3},
+{"start":"2025-09-01T15:28:39+09:00","end":"2025-09-01T15:28:40+09:00","app":"Slack","title":"all-ハッカソン開発チーム（チャンネル） - ハッカソン開発チーム - Slack","activity":"コミュニケーション","durationSec":1},
+{"start":"2025-09-01T15:28:40+09:00","end":"2025-09-01T15:28:41+09:00","app":"Slack","title":"","activity":"コミュニケーション","durationSec":1},
+{"start":"2025-09-01T15:28:41+09:00","end":"2025-09-01T15:28:50+09:00","app":"Slack","title":"all-ハッカソン開発チーム（チャンネル） - ハッカソン開発チーム - Slack","activity":"コミュニケーション","durationSec":9},
+{"start":"2025-09-01T15:28:50+09:00","end":"2025-09-01T15:28:52+09:00","app":"Slack","title":"","activity":"コミュニケーション","durationSec":1},
+{"start":"2025-09-01T15:28:52+09:00","end":"2025-09-01T15:28:55+09:00","app":"Slack","title":"all-ハッカソン開発チーム（チャンネル） - ハッカソン開発チーム - Slack","activity":"コミュニケーション","durationSec":3},
+{"start":"2025-09-01T15:28:55+09:00","end":"2025-09-01T15:28:56+09:00","app":"Finder","title":"","activity":"ファイル操作","durationSec":1},
+{"start":"2025-09-01T15:28:56+09:00","end":"2025-09-01T15:29:16+09:00","app":"Electron","title":"","activity":"その他","durationSec":20},
+{"start":"2025-09-01T15:29:16+09:00","end":"2025-09-01T15:29:17+09:00","app":"Finder","title":"","activity":"ファイル操作","durationSec":2},
+{"start":"2025-09-01T15:29:17+09:00","end":"2025-09-01T15:29:19+09:00","app":"Finder","title":"activitylog","activity":"ファイル操作","durationSec":1},
+{"start":"2025-09-01T15:29:19+09:00","end":"2025-09-01T15:29:34+09:00","app":"Finder","title":"Message","activity":"ファイル操作","durationSec":15},
+{"start":"2025-09-01T15:29:34+09:00","end":"2025-09-01T15:29:35+09:00","app":"Slack","title":"all-ハッカソン開発チーム（チャンネル） - ハッカソン開発チーム - Slack","activity":"コミュニケーション","durationSec":1},
+{"start":"2025-09-01T15:29:35+09:00","end":"2025-09-01T15:30:02+09:00","app":"Electron","title":"","activity":"その他","durationSec":27},
+{"start":"2025-09-01T15:30:02+09:00","end":"2025-09-01T15:30:32+09:00","app":"Slack","title":"all-ハッカソン開発チーム（チャンネル） - ハッカソン開発チーム - Slack","activity":"コミュニケーション","durationSec":30},
+{"start":"2025-09-01T15:30:32+09:00","end":"2025-09-01T15:30:38+09:00","app":"Discord","title":"#t_回路班 | ロボメカ工房NHKロボコン部隊 - Discord","activity":"コミュニケーション","durationSec":6},
+{"start":"2025-09-01T15:30:38+09:00","end":"2025-09-01T15:30:48+09:00","app":"Electron","title":"","activity":"その他","durationSec":9}
+]

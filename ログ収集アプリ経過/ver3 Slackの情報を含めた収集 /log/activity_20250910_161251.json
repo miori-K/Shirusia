@@ -1,0 +1,6 @@
+[
+{"start":"2025-09-10T16:12:54+09:00","end":"2025-09-10T16:12:58+09:00","app":"Electron","title":"main.go — activitylog","activity":"プログラムの制作","durationSec":4},
+{"start":"2025-09-10T16:12:58+09:00","end":"2025-09-10T16:13:04+09:00","app":"Electron","title":"msg_20250901_152902.342_C09D6SG3X0Q.json — activitylog","activity":"プログラムの制作","durationSec":6},
+{"start":"2025-09-10T16:13:04+09:00","end":"2025-09-10T16:13:08+09:00","app":"Electron","title":"activity_20250910_161251.json — activitylog","activity":"プログラムの制作","durationSec":4},
+{"start":"2025-09-10T16:13:08+09:00","end":"2025-09-10T16:13:12+09:00","app":"Electron","title":"msg_20250901_152902.342_C09D6SG3X0Q.json — activitylog","activity":"プログラムの制作","durationSec":4}
+]

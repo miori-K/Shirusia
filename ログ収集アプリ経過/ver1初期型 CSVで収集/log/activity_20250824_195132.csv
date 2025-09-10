@@ -1,0 +1,5 @@
+timestamp,event,app,bundle_id,title,url,category
+2025-08-24T19:51:37+09:00,start,Electron,,,,その他
+2025-08-24T19:51:45+09:00,end,Electron,,,,その他
+2025-08-24T19:51:45+09:00,start,Safari,com.apple.Safari,Goアプリ作成手順,https://chatgpt.com/c/68aaea9e-5400-8333-b667-9a0064898854,ブラウジング
+2025-08-24T19:51:46+09:00,end,Safari,com.apple.Safari,Goアプリ作成手順,https://chatgpt.com/c/68aaea9e-5400-8333-b667-9a0064898854,ブラウジング

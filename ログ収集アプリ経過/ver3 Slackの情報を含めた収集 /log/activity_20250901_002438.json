@@ -1,0 +1,18 @@
+[
+{"start":"2025-09-01T00:24:40+09:00","end":"2025-09-01T00:24:43+09:00","app":"Electron","title":"","activity":"その他","durationSec":3},
+{"start":"2025-09-01T00:24:43+09:00","end":"2025-09-01T00:24:45+09:00","app":"Electron","title":"main.go — activitylog","activity":"プログラムの制作","durationSec":2},
+{"start":"2025-09-01T00:24:45+09:00","end":"2025-09-01T00:24:54+09:00","app":"Slack","title":"all-ハッカソン開発チーム（チャンネル） - ハッカソン開発チーム - Slack","activity":"コミュニケーション","durationSec":9},
+{"start":"2025-09-01T00:24:54+09:00","end":"2025-09-01T00:24:56+09:00","app":"Safari","title":"Slack API: Applications | ハッカソン開発チーム Slack","activity":"Webブラウジング","durationSec":2},
+{"start":"2025-09-01T00:24:56+09:00","end":"2025-09-01T00:24:57+09:00","app":"Finder","title":"log","activity":"ファイル操作","durationSec":1},
+{"start":"2025-09-01T00:24:57+09:00","end":"2025-09-01T00:24:58+09:00","app":"Finder","title":"ver2　JSONで収集初期型","activity":"ファイル操作","durationSec":2},
+{"start":"2025-09-01T00:24:58+09:00","end":"2025-09-01T00:25:00+09:00","app":"Finder","title":"log","activity":"ファイル操作","durationSec":2},
+{"start":"2025-09-01T00:25:00+09:00","end":"2025-09-01T00:25:01+09:00","app":"Finder","title":"ログ収集アプリ経過","activity":"ファイル操作","durationSec":1},
+{"start":"2025-09-01T00:25:01+09:00","end":"2025-09-01T00:25:03+09:00","app":"Safari","title":"Slack API: Applications | ハッカソン開発チーム Slack","activity":"Webブラウジング","durationSec":1},
+{"start":"2025-09-01T00:25:03+09:00","end":"2025-09-01T00:25:04+09:00","app":"Discord","title":"#ハッカソン | メモ用サーバー - Discord","activity":"コミュニケーション","durationSec":1},
+{"start":"2025-09-01T00:25:04+09:00","end":"2025-09-01T00:25:06+09:00","app":"Electron","title":"main.go — activitylog","activity":"プログラムの制作","durationSec":2},
+{"start":"2025-09-01T00:25:06+09:00","end":"2025-09-01T00:25:07+09:00","app":"Finder","title":"activitylog","activity":"ファイル操作","durationSec":2},
+{"start":"2025-09-01T00:25:07+09:00","end":"2025-09-01T00:25:15+09:00","app":"Finder","title":"Message","activity":"ファイル操作","durationSec":7},
+{"start":"2025-09-01T00:25:15+09:00","end":"2025-09-01T00:25:15+09:00","app":"Xcode","title":"","activity":"プログラムの制作","durationSec":0},
+{"start":"2025-09-01T00:25:15+09:00","end":"2025-09-01T00:25:16+09:00","app":"Finder","title":"","activity":"ファイル操作","durationSec":1},
+{"start":"2025-09-01T00:25:16+09:00","end":"2025-09-01T00:25:17+09:00","app":"Electron","title":"main.go — activitylog","activity":"プログラムの制作","durationSec":1}
+]

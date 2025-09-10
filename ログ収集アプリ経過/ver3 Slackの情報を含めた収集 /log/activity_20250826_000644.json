@@ -1,0 +1,12 @@
+[
+{"start":"2025-08-26T00:06:46+09:00","end":"2025-08-26T00:06:47+09:00","app":"Safari","title":"Goで作業履歴アプリ","activity":"Webブラウジング","durationSec":1},
+{"start":"2025-08-26T00:06:47+09:00","end":"2025-08-26T00:06:49+09:00","app":"Finder","title":"activitylog","activity":"ファイル操作","durationSec":2},
+{"start":"2025-08-26T00:06:49+09:00","end":"2025-08-26T00:06:50+09:00","app":"LINE","title":"","activity":"その他","durationSec":1},
+{"start":"2025-08-26T00:06:50+09:00","end":"2025-08-26T00:06:52+09:00","app":"Safari","title":"Goで作業履歴アプリ","activity":"Webブラウジング","durationSec":2},
+{"start":"2025-08-26T00:06:52+09:00","end":"2025-08-26T00:06:53+09:00","app":"Safari","title":"ログインまたはサインアップ - OpenAI","activity":"Webブラウジング","durationSec":2},
+{"start":"2025-08-26T00:06:53+09:00","end":"2025-08-26T00:06:55+09:00","app":"Safari","title":"ChatGPTの最新モデル「GPT-5」とは？使い方・料金・制限を解説","activity":"Webブラウジング","durationSec":2},
+{"start":"2025-08-26T00:06:55+09:00","end":"2025-08-26T00:06:56+09:00","app":"Safari","title":"ログインまたはサインアップ - OpenAI","activity":"Webブラウジング","durationSec":1},
+{"start":"2025-08-26T00:06:56+09:00","end":"2025-08-26T00:06:58+09:00","app":"Safari","title":"Facebook","activity":"Webブラウジング","durationSec":2},
+{"start":"2025-08-26T00:06:58+09:00","end":"2025-08-26T00:07:04+09:00","app":"Finder","title":"activitylog","activity":"ファイル操作","durationSec":6},
+{"start":"2025-08-26T00:07:04+09:00","end":"2025-08-26T00:07:04+09:00","app":"Electron","title":"","activity":"その他","durationSec":0}
+]

@@ -1,0 +1,10 @@
+[
+{"start":"2025-08-31T19:15:32+09:00","end":"2025-08-31T19:15:35+09:00","app":"Terminal","title":"","activity":"その他","durationSec":3},
+{"start":"2025-08-31T19:15:35+09:00","end":"2025-08-31T19:15:41+09:00","app":"System Settings","title":"","activity":"その他","durationSec":6},
+{"start":"2025-08-31T19:15:41+09:00","end":"2025-08-31T19:15:44+09:00","app":"System Settings","title":"アクセシビリティ","activity":"その他","durationSec":3},
+{"start":"2025-08-31T19:15:44+09:00","end":"2025-08-31T19:15:52+09:00","app":"Terminal","title":"activitylog — osascript ◂ go run . — 80×24","activity":"その他","durationSec":8},
+{"start":"2025-08-31T19:15:52+09:00","end":"2025-08-31T19:15:53+09:00","app":"Slack","title":"新しいチャンネル（チャンネル） - ハッカソン開発チーム - Slack","activity":"コミュニケーション","durationSec":1},
+{"start":"2025-08-31T19:15:53+09:00","end":"2025-08-31T19:15:54+09:00","app":"Terminal","title":"","activity":"その他","durationSec":1},
+{"start":"2025-08-31T19:15:54+09:00","end":"2025-08-31T19:15:57+09:00","app":"Terminal","title":"activitylog — osascript ◂ go run . — 80×24","activity":"その他","durationSec":3},
+{"start":"2025-08-31T19:15:57+09:00","end":"2025-08-31T19:15:59+09:00","app":"Slack","title":"新しいチャンネル（チャンネル） - ハッカソン開発チーム - Slack","activity":"コミュニケーション","durationSec":1},
+{"start":"2025-08-31T19:15:59+09:00","end":"2025-08-31T19:16:03+09:00","app":"Terminal","title":"activitylog — osascript ◂ go run . — 80×24","activity":"その他","durationSec":5}

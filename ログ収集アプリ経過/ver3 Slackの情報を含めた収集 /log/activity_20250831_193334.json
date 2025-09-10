@@ -1,0 +1,15 @@
+[
+{"start":"2025-08-31T19:33:36+09:00","end":"2025-08-31T19:33:41+09:00","app":"Electron","title":"","activity":"その他","durationSec":5},
+{"start":"2025-08-31T19:33:41+09:00","end":"2025-08-31T19:33:42+09:00","app":"Discord","title":"#ハッカソン | メモ用サーバー - Discord","activity":"コミュニケーション","durationSec":1},
+{"start":"2025-08-31T19:33:42+09:00","end":"2025-08-31T19:33:51+09:00","app":"Electron","title":"","activity":"その他","durationSec":9},
+{"start":"2025-08-31T19:33:51+09:00","end":"2025-08-31T19:33:53+09:00","app":"Slack","title":"","activity":"コミュニケーション","durationSec":1},
+{"start":"2025-08-31T19:33:53+09:00","end":"2025-08-31T19:34:05+09:00","app":"Slack","title":"all-ハッカソン開発チーム（チャンネル） - ハッカソン開発チーム - Slack","activity":"コミュニケーション","durationSec":13},
+{"start":"2025-08-31T19:34:05+09:00","end":"2025-08-31T19:34:08+09:00","app":"Safari","title":"Slack ボットの作成手順 #備忘録 - Qiita","activity":"調査・ドキュメント閲覧","durationSec":2},
+{"start":"2025-08-31T19:34:08+09:00","end":"2025-08-31T19:34:09+09:00","app":"Finder","title":"activitylog","activity":"ファイル操作","durationSec":2},
+{"start":"2025-08-31T19:34:09+09:00","end":"2025-08-31T19:34:15+09:00","app":"Finder","title":"log","activity":"ファイル操作","durationSec":6},
+{"start":"2025-08-31T19:34:15+09:00","end":"2025-08-31T19:34:17+09:00","app":"Finder","title":"Message","activity":"ファイル操作","durationSec":1},
+{"start":"2025-08-31T19:34:17+09:00","end":"2025-08-31T19:34:21+09:00","app":"Finder","title":"log","activity":"ファイル操作","durationSec":5},
+{"start":"2025-08-31T19:34:21+09:00","end":"2025-08-31T19:34:23+09:00","app":"Slack","title":"all-ハッカソン開発チーム（チャンネル） - ハッカソン開発チーム - Slack","activity":"コミュニケーション","durationSec":1},
+{"start":"2025-08-31T19:34:23+09:00","end":"2025-08-31T19:34:26+09:00","app":"Discord","title":"#ハッカソン | メモ用サーバー - Discord","activity":"コミュニケーション","durationSec":3},
+{"start":"2025-08-31T19:34:26+09:00","end":"2025-08-31T19:34:44+09:00","app":"Electron","title":"","activity":"その他","durationSec":18}
+]
